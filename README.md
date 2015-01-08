@@ -4,6 +4,7 @@ Open Addresses UK forum
 This repository's "issues" section is used as Open Addresses UK's forum. We offer four main categories of discussion:
 
 - the [general discussion forum](https://github.com/OpenAddressesUK/forum/labels/general%20discussion)
+- the [feature requests forum](https://github.com/OpenAddressesUK/forum/labels/feature%20requests), that does what it says on the tin :-)
 - the [developers forum](https://github.com/OpenAddressesUK/forum/labels/development), for anybody building applications using our data, 
 - the [contributors forum](https://github.com/OpenAddressesUK/forum/labels/contributors) for individuals and organisations who contribute to our address database or are willing to, and
 - the forum to describe any [data quality issues](https://github.com/OpenAddressesUK/forum/labels/data%20quality) you may have found using our data.
