@@ -1,7 +1,7 @@
 Open Addresses UK forum
 =======================
 
-This repository's "issues" section is used as Open Addresses UK's forum. We offer four main categories of discussion:
+This repository's "issues" section is used as Open Addresses UK's forum. We offer five main categories of discussion:
 
 - the [general discussion forum](https://github.com/OpenAddressesUK/forum/labels/general%20discussion)
 - the [feature requests forum](https://github.com/OpenAddressesUK/forum/labels/feature%20requests), that does what it says on the tin :-)
